@@ -1,0 +1,14 @@
+layout_spectrum: 0.4914894
+typography_spectrum: 0.2425532
+color:
+  saturation: 0.3978723
+  lightness: 0.3531915
+  brandStrength: 0.4191489
+  brandColors:
+    - '#5C5F8C'
+    - '#A8A4C9'
+    - '#F5D6DC'
+    - '#443E64'
+    - '#07060C'
+  rhythmicContrast: 0.3702128
+name: Everything helicoper
